@@ -1,0 +1,36 @@
+{
+  "name": "index.js",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "fakher",
+  "license": "ISC",
+  "dependencies": {
+    "async-odoo-xmlrpc": "^1.0.1",
+    "atob": "^2.1.2",
+    "bcrypt": "^5.0.1",
+    "bcrypt-nodejs": "0.0.3",
+    "bcryptjs": "^2.4.3",
+    "body-parser": "^1.19.0",
+    "cors": "^2.8.5",
+    "crypto": "^1.0.1",
+    "express": "^4.17.1",
+    "fs": "0.0.1-security",
+    "generate-password": "^1.6.0",
+    "jsonwebtoken": "^8.5.1",
+    "nodemailer": "^6.5.0",
+    "odoo": "^0.4.0",
+    "odoo-await": "^2.2.0",
+    "odoo-xmlrpc": "^1.0.8",
+    "passport": "^0.4.1",
+    "passport-jwt": "^4.0.0",
+    "pg": "^8.5.1",
+    "sequelize": "^6.5.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.15"
+  }
+}

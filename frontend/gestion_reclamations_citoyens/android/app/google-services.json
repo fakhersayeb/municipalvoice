@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "771583556036",
+    "project_id": "login-42683",
+    "storage_bucket": "login-42683.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:771583556036:android:d56d866e6a326d42c7cc91",
+        "android_client_info": {
+          "package_name": "com.example.gestion_reclamations_citoyens"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "771583556036-3cog3ab9jf9ho4bf4381l4fploapai2a.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.gestion_reclamations_citoyens",
+            "certificate_hash": "7e36d01d3f79c4930208a6e54c5904710c435fce"
+          }
+        },
+        {
+          "client_id": "771583556036-btma81o4li17mddfpkt5arsjgij4gadf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCxShksSh3OHMelc9TOIw7YrY5Ihequric"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "771583556036-btma81o4li17mddfpkt5arsjgij4gadf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
